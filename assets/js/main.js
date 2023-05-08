@@ -63,7 +63,7 @@ class Calculadora {
       case "-":
         resultado = _displaySecundario - _displayPrincipal;
         break;
-      case "x":
+      case "&times;":
         resultado = _displaySecundario * _displayPrincipal;
         break;
       case "÷":
